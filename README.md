@@ -8,7 +8,7 @@ Resolução dos Desafios de Código realizados durante o Santander Bootcamp 2023
 ## JavaScript
 - [x] **Equilibrando o Saldo**
 - [x] **Organizando Seus Ativos**
-- [ ] **Condicionalmente Rico**
+- [x] **Condicionalmente Rico**
 - [ ] **Juros Compostos**
 - [ ] **O Grande Deposito**
 

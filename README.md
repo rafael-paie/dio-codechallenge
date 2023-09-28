@@ -10,7 +10,7 @@ Resolução dos Desafios de Código realizados durante o Santander Bootcamp 2023
 - [x] [**Organizando Seus Ativos**](JavaScript/02.js)
 - [x] [**Condicionalmente Rico**](JavaScript/03.js)
 - [x] [**Juros Compostos**](JavaScript/04.js)
-- [ ] **O Grande Deposito**
+- [x] [**O Grande Deposito**](JavaScript/05.js)
 
 ## Java
 - [ ] **Abrindo Contas**

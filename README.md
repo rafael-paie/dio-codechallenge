@@ -13,7 +13,7 @@ Resolução dos Desafios de Código realizados durante o Santander Bootcamp 2023
 - [x] [**O Grande Deposito**](JavaScript/05.js)
 
 ## Java
-- [ ] **Abrindo Contas**
+- [x] **Abrindo Contas**
 - [ ] **Herança Bancária**
 - [ ] **Cofres Seguros**
 - [ ] **Reunião de Acionistas**

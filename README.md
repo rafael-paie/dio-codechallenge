@@ -14,7 +14,7 @@ Resolução dos Desafios de Código realizados durante o Santander Bootcamp 2023
 
 ## Java
 - [x] **Abrindo Contas**
-- [ ] **Herança Bancária**
+- [x] **Herança Bancária**
 - [ ] **Cofres Seguros**
 - [ ] **Reunião de Acionistas**
 - [ ] **Última Transação**

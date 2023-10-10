@@ -16,5 +16,5 @@ Resolução dos Desafios de Código realizados durante o Santander Bootcamp 2023
 - [x] **Abrindo Contas**
 - [x] **Herança Bancária**
 - [x] **Cofres Seguros**
-- [ ] **Reunião de Acionistas**
-- [ ] **Última Transação**
+- [x] **Reunião de Acionistas**
+- [x] **Última Transação**
